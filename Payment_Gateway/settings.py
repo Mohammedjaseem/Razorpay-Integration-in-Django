@@ -43,8 +43,8 @@ INSTALLED_APPS = [
 
 
 #payment gateway seting up
-RAZOR_KEY_ID = 'rzp_test_CttxyTgmXY0JpR'
-RAZOR_KEY_SECRET = 'qFofkXG0OihP1FVmLBKHaId2'
+RAZOR_KEY_ID = ''
+RAZOR_KEY_SECRET = ''
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
